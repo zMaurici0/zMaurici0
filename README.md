@@ -35,6 +35,20 @@ Atualmente estou focando meus estudos em **Qualidade de Software (QA)**, com foc
 
 ---
 
+## 📂 Projetos em Destaque
+
+### 🤖 [QA Automation – Web & API](https://github.com/zMaurici0/Projeto-Web-API-QA-Jr)
+Projeto completo de automação com Playwright + JavaScript — testes E2E, funcionais, smoke e negativos, organizados com Page Object Model em 26 casos de teste Web e API.
+`Playwright` `JavaScript` `Node.js` `API Testing`
+
+---
+
+### 📋 [QA Manual – Web & API](https://github.com/zMaurici0/qa-manual-portfolio)
+Projeto de testes manuais com plano de teste, casos de teste e evidências. Módulos de API (Postman) e Web (OpenCart Demo).
+`Postman` `Manual Testing` `Bug Report`
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🧪 QA & Automação de Testes
