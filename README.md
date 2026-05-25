@@ -62,7 +62,7 @@ Atualmente estou focando meus estudos em **Qualidade de Software (QA)**, com foc
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zMaurici0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zMaurici0&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaurici0&layout=compact&theme=tokyonight" />
 </p>
 
