@@ -1,6 +1,6 @@
 # Olá 👋, Sou o Maurício Mota
 
-🚀 **Analista de Automação Jr | Python & Power Automate**  
+🚀 **Assistente de Automação | Python & Power Automate**  
 🇧🇷 Brazil
 
 Desenvolvo **automações web**, focadas na **otimização de processos empresariais**.  
