@@ -58,6 +58,7 @@ Projeto de testes manuais com plano de teste, casos de teste documentados em for
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Web Testing](https://img.shields.io/badge/Web%20Testing-02569B?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20Testing-4CAF50?style=for-the-badge)
+![BDD/Gherkin](https://img.shields.io/badge/BDD%2FGherkin-23D96C?style=for-the-badge)
 
 ### 💻 Desenvolvimento
 
