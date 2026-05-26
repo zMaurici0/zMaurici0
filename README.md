@@ -44,8 +44,8 @@ Projeto completo de automação com Playwright + JavaScript — testes E2E, func
 ---
 
 ### 📋 [QA Manual – Web & API](https://github.com/zMaurici0/qa-manual-portfolio)
-Projeto de testes manuais com plano de teste, casos de teste e evidências. Módulos de API (Postman) e Web (OpenCart Demo).
-`Postman` `Manual Testing` `Bug Report`
+Projeto de testes manuais com plano de teste, casos de teste documentados em formato tradicional e migrados para BDD/Gherkin, além de evidências e relatórios de bugs. Módulos de API (ServeRest) e Web (OpenCart Demo).
+`Postman` `BDD` `Gherkin` `Bug Report`
 
 ---
 
