@@ -37,6 +37,16 @@ Atualmente estou focando meus estudos em **Qualidade de Software (QA)**, com foc
 
 ## 📂 Projetos em Destaque
 
+### 🥒 [QA Automation – BDD com Cucumber & Playwright](https://github.com/zMaurici0/QA-Cucumber-Playwright-JS)
+Projeto de automação com abordagem BDD utilizando Cucumber + Playwright — 9 cenários organizados em Gherkin cobrindo fluxos de login, logout e carrinho de compras, com Page Object Model e geração de relatórios via Allure.
+
+![Playwright](https://img.shields.io/badge/Playwright-Test%20Automation-green)
+![Cucumber](https://img.shields.io/badge/Cucumber-BDD-brightgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen)
+
+---
+
 ### 🤖 [QA Automation – Web & API](https://github.com/zMaurici0/Projeto-Web-API-QA-Jr)
 Projeto completo de automação com Playwright + JavaScript — testes E2E, funcionais, smoke e negativos, organizados com Page Object Model em 26 casos de teste Web e API.
 
