@@ -1,6 +1,6 @@
 # Olá 👋, Sou o Maurício Mota
 
-🚀 **Assistente de Automação | Python & Power Automate**  
+🚀 **QA Analyst (Jr) em formação | Playwright, JavaScript, Automação de Testes | Automação de Processos**  
 🇧🇷 Brazil
 
 Desenvolvo **automações web**, focadas na **otimização de processos empresariais**.  
