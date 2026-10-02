@@ -22,6 +22,16 @@ Atualmente estou focando meus estudos em **Qualidade de Software (QA)**, com foc
 </a>
 </p>
 
+## [ CONTRIBUTIONS ]
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VincentJerico/VincentJerico/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VincentJerico/VincentJerico/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/VincentJerico/VincentJerico/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🧠 O que eu faço
